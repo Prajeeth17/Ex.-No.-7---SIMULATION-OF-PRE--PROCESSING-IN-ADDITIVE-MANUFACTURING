@@ -70,7 +70,7 @@ Orientation plays a crucial role in the pre-processing stage of 3D printing. Cho
 Orienting your model in a way that aligns with the printer's optimal speed axes can result in faster and more efficient printing. Optimizing the orientation can help reduce the overall print time and minimize material usage. Orienting your model to minimize unnecessary supports or reduce the number of retractions and travel moves can improve efficiency.
 ### Support Structure:
 ![image](https://github.com/22002525karthikeyan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118708040/15d57758-3930-41ce-877f-660e23f103a8)
-### EXplanation:
+### Explanation:
 Support structures are often necessary in 3D printing to provide stability and prevent overhangs and unsupported features from collapsing during the printing process. These structures act as temporary supports for overhanging or complex geometries and are typically removed after printing.
 
 Slicing software often provides options to adjust support parameters. These parameters include support density, support pattern, support angle, and others. Depending on the specific requirements of your model, you can customize these settings to optimize the support structure generation.
